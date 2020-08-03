@@ -1,0 +1,7 @@
+{
+  "name": "ExamenCamasWilmer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
